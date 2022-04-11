@@ -1,0 +1,13 @@
+body{
+    font-family: 'Rubik', sans-serif;
+}
+
+
+#content {
+    border-style: solid;
+    border: 5px solid green;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

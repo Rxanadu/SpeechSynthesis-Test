@@ -1,0 +1,25 @@
+What I learned from making a small text-to-speech website/app
+
+	SpeechSynthesis API
+	DOM elements
+	using techniques such as 'const' keyword and 'addEventListener' method calls
+	using Javascript to create multiple HTML elements 
+	utilizing input from HTML input elements into Javascript output
+	using local storage and session storage to (temporarily) save information
+	using the 'script' tag into a project
+	displaying output in HTML
+
+Things I still have trouble with
+
+	CSS styling (e.g. centering, positioning HTML elements)
+	displaying alerts for use with testing
+	
+Am I done with the project?
+	Yes
+		have no feeling toward project now - it filled its purpose in helping me learn more about the SpeechSynthesis API and using user input for an app
+		
+What next?
+	Something which can teach me more about CSS
+		need to learn how to polish the visuals of an app while also making the project
+			would have to be 'simple' - 2-3 days of work
+			would allow me to make a simple type up of project during project
